@@ -3,7 +3,8 @@
 ## Windows 11 Privacy Settings PowerShell script
 
 This script follows Windows 11 privacy suggestions:
-https://github.com/StellarSand/privacy-settings/blob/main/Privacy Settings/Windows-11.md
+[Windows 11 Privacy Guide](https://github.com/StellarSand/privacy-settings/blob/main/Privacy%20Settings/Windows-11.md)
+
 
 It covers the following:
 - Changing Lock Screen & Screen Saver Settings
